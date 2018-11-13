@@ -1,2 +1,2 @@
 # SickArt
-Sick Art for inspiration
+Sick art for inspiration
