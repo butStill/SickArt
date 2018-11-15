@@ -13,8 +13,7 @@ Sick art for inspiration
 - [Hyperlight Drifter UI](https://medium.com/the-space-ape-games-experience/hyper-light-drifter-ui-breakdown-c2d9cfe0a192)
 _____________________
 ![math-roodhuizen-1](https://user-images.githubusercontent.com/44952272/48557203-3a486c80-e93a-11e8-9f8e-caf1dde4c353.jpg)
-[Blue Environment](https://www.artstation.com/artwork/nKYNe)
 
-Blue Environment by [Math Roodhuizen](https://www.artstation.com/artwork/nKYNe]
+[Blue Environment](https://www.artstation.com/artwork/nKYNe) by [Math Roodhuizen](https://www.artstation.com/artwork/nKYNe)
 
 - Imagine a stationary camera while your character walks that path
