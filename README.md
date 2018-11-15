@@ -10,8 +10,13 @@ Sick art for inspiration
 
 - [Hyperlight Drifter Top-Down View](https://shutupndraw.com/2018/02/05/pixel-part-2-top-view-hyper-light-drifter/)
 
-- [Hyperlight Drifter UI](https://medium.com/the-space-ape-games-experience/hyper-light-drifter-ui-breakdown-c2d9cfe0a192)
 _____________________
+
+![1_xkrnsgm6hjyathfngfmm6a](https://user-images.githubusercontent.com/44952272/48557451-e38f6280-e93a-11e8-9d14-359cc63704c3.jpeg)
+
+Hyperlight Drifter UI with a [medium article breakdown](https://medium.com/the-space-ape-games-experience/hyper-light-drifter-ui-breakdown-c2d9cfe0a192)
+_____________________
+
 ![math-roodhuizen-1](https://user-images.githubusercontent.com/44952272/48557203-3a486c80-e93a-11e8-9f8e-caf1dde4c353.jpg)
 
 [Blue Environment](https://www.artstation.com/artwork/nKYNe) by [Math Roodhuizen](https://www.artstation.com/artwork/nKYNe)
