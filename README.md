@@ -6,6 +6,9 @@ Sick art for inspiration
 
 - [Red Robot](https://www.artstation.com/artwork/l0nlz)
 
+
+![hld_03](https://user-images.githubusercontent.com/44952272/48557723-9f509200-e93b-11e8-9899-1f625dd7b96f.gif)
+
 - [The Ultramodern Stylings of Hyperlight Drifter](http://www.gamasutra.com/blogs/KrisLigman/20131030/203652/The_ultramodern_stylings_of_Hyper_Light_Drifter.php)
 _____________________
 
