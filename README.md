@@ -6,7 +6,7 @@ Sick art for inspiration
 
 [Red Robot](https://www.artstation.com/artwork/l0nlz) by Kevin-Mark Bonein
 
-- 
+- Imagine a game with that but without the shit borderlands shaders, would look clean
 _____________________
 
 ![hld_03](https://user-images.githubusercontent.com/44952272/48557723-9f509200-e93b-11e8-9899-1f625dd7b96f.gif)
