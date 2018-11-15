@@ -7,8 +7,13 @@ Sick art for inspiration
 - [Red Robot](https://www.artstation.com/artwork/l0nlz)
 
 - [The Ultramodern Stylings of Hyperlight Drifter](http://www.gamasutra.com/blogs/KrisLigman/20131030/203652/The_ultramodern_stylings_of_Hyper_Light_Drifter.php)
+_____________________
 
-- [Hyperlight Drifter Top-Down View](https://shutupndraw.com/2018/02/05/pixel-part-2-top-view-hyper-light-drifter/)
+![pixel3 1 13](https://user-images.githubusercontent.com/44952272/48557568-3f59eb80-e93b-11e8-9245-35a43e3d6e39.jpg)
+
+[Hyperlight Drifter Top-Down View](https://shutupndraw.com/2018/02/05/pixel-part-2-top-view-hyper-light-drifter/)
+
+- Cool idea of restricting playspace for contrast, atmospheric
 
 _____________________
 
