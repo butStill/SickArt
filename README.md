@@ -4,6 +4,8 @@ Sick art for inspiration
 
 ## Stylized
 
+![kevin-mark-bonein-explorership-colors](https://user-images.githubusercontent.com/44952272/48558028-56e5a400-e93c-11e8-8c94-ab3dcabd5caf.jpg)
+
 [Red Robot](https://www.artstation.com/artwork/l0nlz) by Kevin-Mark Bonein
 
 - Imagine a game with that but without the shit borderlands shaders, would look clean
