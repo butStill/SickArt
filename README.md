@@ -58,7 +58,7 @@ _____________________
 <p align="center">Frozen Giants' River by Martin Pique Yakoubsohn (https://www.artstation.com/artwork/Z5GoNm) </p>
 
 _____________________
-## UI
+<h1 align="center"> UI </a> </h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/44952272/48619817-d2555d00-e9f1-11e8-9364-3211f702915d.png">
