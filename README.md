@@ -40,5 +40,8 @@ _____________________
 
 _____________________
 
-[A bunch of rocks](https://www.pinterest.com.au/lyee787/rocks2/)
+Rocks List:
+- [A bunch of rocks](https://www.pinterest.com.au/lyee787/rocks2/)
+- [Another bunch of rocks](https://www.pinterest.com.au/PolygonalMind/interesting-rock-formations-references/)
+- [Some cool rocks](https://www.pinterest.com.au/pin/503347695849258338/)
 
