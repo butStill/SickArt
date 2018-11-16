@@ -1,7 +1,3 @@
-# SickArt
-Sick art for inspiration
-
-
 ## Stylized
 
 ![kevin-mark-bonein-explorership-colors](https://user-images.githubusercontent.com/44952272/48558028-56e5a400-e93c-11e8-8c94-ab3dcabd5caf.jpg)
