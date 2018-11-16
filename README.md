@@ -1,4 +1,4 @@
-<h1 align="center"> Stylized </a> </h4>
+<h1 align="center"> Inspiration </a> </h1>
 
 _____________________________________________________________________________________________
 
@@ -7,9 +7,7 @@ ________________________________________________________________________________
 </a>
 </p>
 
-![kevin-mark-bonein-explorership-colors](https://user-images.githubusercontent.com/44952272/48558028-56e5a400-e93c-11e8-8c94-ab3dcabd5caf.jpg)
-
-[Red Robot](https://www.artstation.com/artwork/l0nlz) by Kevin-Mark Bonein
+<p align="center">[Red Robot](https://www.artstation.com/artwork/l0nlz) by Kevin-Mark Bonein </p>
 
 - Imagine a game with that but without the shit borderlands shaders, would look clean
 _____________________
