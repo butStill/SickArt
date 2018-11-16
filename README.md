@@ -1,19 +1,10 @@
-<h1 align="center"> Stylized </a>.</h4>
+<h1 align="center"> Stylized </a> </h4>
 
 _____________________________________________________________________________________________
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/amitmerchant1990">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
+<img src="https://user-images.githubusercontent.com/44952272/48558028-56e5a400-e93c-11e8-8c94-ab3dcabd5caf.jpg">
+</a>
 </p>
 
 ![kevin-mark-bonein-explorership-colors](https://user-images.githubusercontent.com/44952272/48558028-56e5a400-e93c-11e8-8c94-ab3dcabd5caf.jpg)
