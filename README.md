@@ -100,7 +100,7 @@ ___________________________________________________________________
 ___________________________________________________________________
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/44952272/48619949-5c9dc100-e9f2-11e8-8c51-2ab5be505c6b.jpg">
+<img src="https://user-images.githubusercontent.com/44952272/48621749-a2f61e80-e9f8-11e8-91c7-78e07f230c8e.jpg">
 </a>
 </p>
 
