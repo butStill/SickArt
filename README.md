@@ -93,9 +93,11 @@ ___________________________________________________________________
 ___________________________________________________________________
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/44952272/48621643-3bd86a00-e9f8-11e8-86ed-ccf80a5ca2d4.gif">
+<img src="https://user-images.githubusercontent.com/44952272/48622162-ff0d7280-e9f9-11e8-8384-73341d5e7888.gif">
 </a>
 </p>
+
+- movement + animals + character to side--> immersion
 
 ___________________________________________________________________
 
