@@ -44,7 +44,7 @@ _____________________
 </a>
 </p>
 
-<p align="center">Blue Environment by Math Roodhuizen (https://www.artstation.com/artwork/l0nlz) by Kevin-Mark Bonein </p>
+<p align="center">Blue Environment by Math Roodhuizen (https://www.artstation.com/artwork/l0nlz) </p>
 
 - Imagine a stationary camera while your character walks that path
 
@@ -55,11 +55,11 @@ _____________________
 </a>
 </p>
 
-<p align="center">Frozen Giants' River by Martin Pique Yakoubsohn (https://www.artstation.com/artwork/Z5GoNm) by Kevin-Mark Bonein </p>
+<p align="center">Frozen Giants' River by Martin Pique Yakoubsohn (https://www.artstation.com/artwork/Z5GoNm) </p>
 
 _____________________
 
-Rocks List:
+## Rocks List:
 - [A bunch of rocks](https://www.pinterest.com.au/lyee787/rocks2/)
 - [Another bunch of rocks](https://www.pinterest.com.au/PolygonalMind/interesting-rock-formations-references/)
 - [Some cool rocks](https://www.pinterest.com.au/pin/503347695849258338/)
