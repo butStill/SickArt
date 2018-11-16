@@ -70,13 +70,16 @@ _____________________
 _____________________
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/44952272/48619817-d2555d00-e9f1-11e8-9364-3211f702915d.png">
+<img src="https://user-images.githubusercontent.com/44952272/48619907-295b3200-e9f2-11e8-95e4-7d439ebcf2db.jpg">
 </a>
 </p>
-- [leaked style guide](https://imgur.com/gallery/Y2HV1)
-- [a division UI copy](https://www.dropbox.com/s/3pysv9g9bn09r4c/division_UI.psd.zip?dl=0)
-
 _____________________
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/44952272/48619907-295b3200-e9f2-11e8-95e4-7d439ebcf2db.jpg">
+</a>
+</p>
+
 ## Rocks List:
 - [A bunch of rocks](https://www.pinterest.com.au/lyee787/rocks2/)
 - [Another bunch of rocks](https://www.pinterest.com.au/PolygonalMind/interesting-rock-formations-references/)
