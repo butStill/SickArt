@@ -1,4 +1,4 @@
-<h1 align="center"> Inspiration </a> </h1>
+<h1 align="center"> :running: Inspiration :running: </a> </h1>
 
 _____________________________________________________________________________________________
 
@@ -58,7 +58,8 @@ _____________________
 <p align="center">Frozen Giants' River by Martin Pique Yakoubsohn (https://www.artstation.com/artwork/Z5GoNm) </p>
 
 _____________________
-<h1 align="center"> UI </a> </h1>
+
+<h1 align="center"> :running: UI :running: </a> </h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/44952272/48619817-d2555d00-e9f1-11e8-9364-3211f702915d.png">
@@ -68,6 +69,14 @@ _____________________
 - [a division UI copy](https://www.dropbox.com/s/3pysv9g9bn09r4c/division_UI.psd.zip?dl=0)
 _____________________
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/44952272/48619817-d2555d00-e9f1-11e8-9364-3211f702915d.png">
+</a>
+</p>
+- [leaked style guide](https://imgur.com/gallery/Y2HV1)
+- [a division UI copy](https://www.dropbox.com/s/3pysv9g9bn09r4c/division_UI.psd.zip?dl=0)
+
+_____________________
 ## Rocks List:
 - [A bunch of rocks](https://www.pinterest.com.au/lyee787/rocks2/)
 - [Another bunch of rocks](https://www.pinterest.com.au/PolygonalMind/interesting-rock-formations-references/)
