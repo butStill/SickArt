@@ -65,6 +65,7 @@ _____________________
 <img src="https://user-images.githubusercontent.com/44952272/48619817-d2555d00-e9f1-11e8-9364-3211f702915d.png">
 </a>
 </p>
+
 - [leaked style guide](https://imgur.com/gallery/Y2HV1)
 - [a division UI copy](https://www.dropbox.com/s/3pysv9g9bn09r4c/division_UI.psd.zip?dl=0)
 _____________________
