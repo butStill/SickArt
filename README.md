@@ -68,6 +68,7 @@ _____________________
 
 - [leaked style guide](https://imgur.com/gallery/Y2HV1)
 - [a division UI copy](https://www.dropbox.com/s/3pysv9g9bn09r4c/division_UI.psd.zip?dl=0)
+- [review](http://thegrandarmy.com/2016/04/tom-clancys-the-division-a-user-interface-review/)
 _____________________
 
 <p align="center">
