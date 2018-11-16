@@ -61,7 +61,7 @@ _____________________
 ## UI
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/44952272/48558028-56e5a400-e93c-11e8-8c94-ab3dcabd5caf.jpg">
+<img src="https://user-images.githubusercontent.com/44952272/48619817-d2555d00-e9f1-11e8-9364-3211f702915d.png">
 </a>
 </p>
 - [leaked style guide](https://imgur.com/gallery/Y2HV1)
