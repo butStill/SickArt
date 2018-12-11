@@ -127,5 +127,72 @@ ___________________________________________________________________
 </a>
 </p>
 
+- [Guillem H. Pongiluppi](https://www.artstation.com/guillemhp)
+
+___________________________________________________________________
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/44952272/49812555-c9219b00-fdb9-11e8-9781-996e432ea1dd.png">
+</a>
+</p>
+
+- [Eugene Gottsnake](https://www.artstation.com/gottsnake)
+
+___________________________________________________________________
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/44952272/49812923-92985000-fdba-11e8-8b0d-51663831a0ab.png">
+</a>
+</p>
+
+- [James Combridge](https://www.artstation.com/jamescombridge)
+
+- Draws you in
+
+___________________________________________________________________
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/44952272/49813220-19e5c380-fdbb-11e8-9503-9916ed5628c2.png">
+</a>
+</p>
+
+- [Lucas Papini](https://www.artstation.com/lucaspapini)
+
+___________________________________________________________________
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/44952272/49813446-91b3ee00-fdbb-11e8-968f-6e373ee7e76d.png">
+</a>
+</p>
+
+- [Pablo Poliakov](https://www.artstation.com/searinox)
+
+- Helmet shape
+
+___________________________________________________________________
+
+<p align="center">
+<img src="
+![image](https://user-images.githubusercontent.com/44952272/49813613-e9eaf000-fdbb-11e8-82b2-43f704903b8d.png)">
+</a>
+</p>
+
+- [Ching Yeh](https://www.artstation.com/chingyeh)
+
+- Face
+
+___________________________________________________________________
+
+<p align="center">
+<img src="
+![image](https://user-images.githubusercontent.com/44952272/49813793-5e259380-fdbc-11e8-954d-ece55fd3381a.png)">
+</a>
+</p>
+
+- [Torsten Gunst](https://www.artstation.com/nerdbot)
+
+
+
+
 
 
