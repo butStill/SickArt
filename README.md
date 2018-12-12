@@ -234,6 +234,15 @@ ___________________________________________________________________
 
 - [Stéphane Wootha Richard](https://www.artstation.com/wootha)
 
+___________________________________________________________________
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/44952272/49840617-4542cf80-fe08-11e8-9bf2-2b156077eadd.png">
+</a>
+</p>
+
+- [Andreas Rocha](https://www.artstation.com/andreasrocha)
+
 
 
 
