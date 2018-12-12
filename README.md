@@ -254,6 +254,15 @@ ___________________________________________________________________
 
 - [Andreas Rocha](https://www.artstation.com/andreasrocha)
 
+___________________________________________________________________
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/44952272/49840796-1416cf00-fe09-11e8-81f9-d0f1f2f219fc.png">
+</a>
+</p>
+
+- [Andreas Rocha](https://www.artstation.com/andreasrocha)
+
 
 
 
