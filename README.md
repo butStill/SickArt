@@ -172,8 +172,7 @@ ___________________________________________________________________
 ___________________________________________________________________
 
 <p align="center">
-<img src="
-![image](https://user-images.githubusercontent.com/44952272/49813613-e9eaf000-fdbb-11e8-82b2-43f704903b8d.png)">
+<img src="(https://user-images.githubusercontent.com/44952272/49813613-e9eaf000-fdbb-11e8-82b2-43f704903b8d.png)">
 </a>
 </p>
 
@@ -184,12 +183,57 @@ ___________________________________________________________________
 ___________________________________________________________________
 
 <p align="center">
-<img src="
-![image](https://user-images.githubusercontent.com/44952272/49813793-5e259380-fdbc-11e8-954d-ece55fd3381a.png)">
+<img src="(https://user-images.githubusercontent.com/44952272/49813793-5e259380-fdbc-11e8-954d-ece55fd3381a.png)">
 </a>
 </p>
 
 - [Torsten Gunst](https://www.artstation.com/nerdbot)
+
+___________________________________________________________________
+
+<p align="center">
+<img src="(https://user-images.githubusercontent.com/44952272/49814186-371b9180-fdbd-11e8-91e6-bdfdd60a72f4.png)
+)">
+</a>
+</p>
+
+- [Guillem H. Pongiluppi](https://www.artstation.com/guillemhp)
+
+___________________________________________________________________
+
+<p align="center">
+<img src="(https://user-images.githubusercontent.com/44952272/49814024-e99f2480-fdbc-11e8-9493-7f03e76f3e13.png)">
+</a>
+</p>
+
+- [Hendrik Visser](https://www.artstation.com/hendrikvisser)
+
+___________________________________________________________________
+
+<p align="center">
+<img src="(https://user-images.githubusercontent.com/44952272/49814274-67fbc680-fdbd-11e8-828c-4a7903817cf3.png)">
+</a>
+</p>
+
+- [Stéphane Wootha Richard](https://www.artstation.com/wootha)
+
+___________________________________________________________________
+
+<p align="center">
+<img src="(https://user-images.githubusercontent.com/44952272/49840441-84bcec00-fe07-11e8-9751-1fdcb962d1e4.png)">
+</a>
+</p>
+
+- [Sylvain Sarrailh](https://www.artstation.com/tohad)
+
+___________________________________________________________________
+
+<p align="center">
+<img src="(https://user-images.githubusercontent.com/44952272/49840528-e41afc00-fe07-11e8-9fa6-cace871b143e.png)">
+</a>
+</p>
+
+- [Stéphane Wootha Richard](https://www.artstation.com/wootha)
 
 
 
